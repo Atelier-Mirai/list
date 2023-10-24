@@ -1,0 +1,6 @@
+body {
+  & p {
+    color: orange;
+    font-size: 2rem;
+  }
+}
